@@ -30,7 +30,7 @@ src/main/resources/data/h2/import.sql - To populate table data.
 
 ```
 
-## Instructions on how to run this application
+## Instructions to run this application
 
 ### As a standalone REST service - ```without Docker```
 
