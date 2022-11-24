@@ -32,7 +32,7 @@ src/main/resources/data/h2/import.sql - To populate table data.
 
 ## Instructions on how to run this application
 
-###As a standalone REST service - ```without Docker```
+### As a standalone REST service - ```without Docker```
 
 This application is packaged as a jar which has Tomcat embedded. You run it using the ```java -jar``` command.
 
