@@ -1,6 +1,6 @@
 # Spring Boot "Microservice" SWAPI (Starwars API) Demo Project
 
-This is a sample Java / Maven / Spring Boot application which is built to demonstrate SWAPI by exposing REST endpoints to access STARSHIPS inventory.
+This is a sample Java / Maven / Spring Boot application which is built to demonstrate SWAPI Starship data-model by exposing REST endpoints to access STARSHIPS inventory.
 
 # Technologies Used
 
